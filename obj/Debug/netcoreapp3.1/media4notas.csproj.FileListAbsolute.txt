@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\bin\Debug\netcoreapp3.1\media4notas.exe
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\bin\Debug\netcoreapp3.1\media4notas.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\bin\Debug\netcoreapp3.1\media4notas.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\bin\Debug\netcoreapp3.1\media4notas.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\bin\Debug\netcoreapp3.1\media4notas.dll
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\bin\Debug\netcoreapp3.1\media4notas.pdb
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\obj\Debug\netcoreapp3.1\media4notas.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\obj\Debug\netcoreapp3.1\media4notas.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\obj\Debug\netcoreapp3.1\media4notas.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\obj\Debug\netcoreapp3.1\media4notas.dll
+C:\Users\Maria Luiza\Documents\Luiza\media4notas\media4notas\obj\Debug\netcoreapp3.1\media4notas.pdb
